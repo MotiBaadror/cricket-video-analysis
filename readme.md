@@ -6,7 +6,7 @@ The notebook contain all the helper code
 
 src folder have same code
 
-![Results](..\results.jpg)
+![alt Results](../results.jpg)
 
 ```
 git clone 
