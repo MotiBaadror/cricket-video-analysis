@@ -3,3 +3,4 @@ data
 .vscode
 results
 checkpoints
+__pycache__
