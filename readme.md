@@ -14,7 +14,9 @@ git clone https://github.com/MotiBaadror/cricket_video_analysis
 cd cricket_video_analysis 
 pip install - r requirements.txt
 ```
+download the pretrained model from [here](https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/VIDEO.md#videodetection)    
 
+Keep the weights in the checkpoints folder    
 Keep the video in data/ folder     
 
 ```
@@ -29,8 +31,6 @@ after that to get  the frame where bat hits ball
 ```
 python generate_results.py
 ```
-
-download the pretrained model from [here](https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/VIDEO.md#videodetection)
 
 The notebook contain all the helper code which is not organised. 
 
