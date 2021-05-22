@@ -1,8 +1,6 @@
-## Cricket player and bat and ball detection 
-Impact detection 
+## Cricket bat and ball impact detection     
 The results is showing the frame where bat hit the ball. 
 
-src folder have code
 
 ![alt Results](results.jpg)
 
