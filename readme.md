@@ -6,7 +6,7 @@ The notebook contain all the helper code
 
 src folder have same code
 
-[Results](..\results\detfps60fd2normalbatplusball\736.jpg)
+[Results](..\results.jpg)
 
 ```
 git clone 
