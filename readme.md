@@ -2,7 +2,7 @@
 The results is showing the frame where bat hit the ball. 
 
 
-![alt Results](results.jpg)
+![alt Results](results.jpg = 600x338)
 
 
 
