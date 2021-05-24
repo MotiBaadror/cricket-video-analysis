@@ -29,6 +29,10 @@ after that to get  the frame where bat hits ball
 ```
 python generate_results.py
 ```
+To get the final output I am calculating euclidian distence between bet and ball.    
+```
+dst = math.sqrt((x1-x2)**2+(y1-y2)**2)
+```
 
 The notebook contain all the helper code which is not organised. 
 
