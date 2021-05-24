@@ -7,7 +7,8 @@
 The results is showing the frame where bat hit the ball. 
 
 
-![](results.jpg =600x338)
+<!-- ![](results.jpg =600x338) -->
+<img src=results.jpg width="600px" height="338px">
 
 
 
