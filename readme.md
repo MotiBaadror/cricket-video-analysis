@@ -2,7 +2,7 @@
 The results is showing the frame where bat hit the ball. 
 
 
-![alt Results](results.jpg = 600x338)
+![alt Results](https://github.com/MotiBaadror/cricket-video-analysis/blob/master/results.jpg){:height="600px" width="338px"}
 
 
 
