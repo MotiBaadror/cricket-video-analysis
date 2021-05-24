@@ -1,8 +1,13 @@
-## Cricket bat and ball impact detection     
+## Cricket bat and ball impact detection  
+
+### Detection used 
+![alt video](ezgif.com-gif-maker.gif)     
+
+
 The results is showing the frame where bat hit the ball. 
 
 
-![alt Results](https://github.com/MotiBaadror/cricket-video-analysis/blob/master/results.jpg){:height="600px" width="338px"}
+![](results.jpg =600x338)
 
 
 
@@ -18,7 +23,7 @@ Keep the weights in the checkpoints folder
 Keep the video in data/ folder    
 ## Results from tensorflow model 
 
-![alt video](ezgif.com-gif-maker.gif)    
+ 
 
 Use ```inference_tf2_colab.ipynb``` to get the results from models of tensorflow model. 
 You can try several different configs available [here](https://github.com/tensorflow/models/tree/master/research/object_detection/configs/tf2)
