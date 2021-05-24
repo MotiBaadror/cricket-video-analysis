@@ -15,7 +15,17 @@ pip install - r requirements.txt
 download the pretrained model from [here](https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/VIDEO.md#videodetection)    
 
 Keep the weights in the checkpoints folder    
-Keep the video in data/ folder     
+Keep the video in data/ folder    
+## Results from tensorflow model 
+
+Use ```inference_tf2_colab.ipynb``` to get the results from models of tensorflow model. 
+You can try several different configs available [here](https://github.com/tensorflow/models/tree/master/research/object_detection/configs/tf2)
+
+
+
+
+
+## Image_AI results    
 
 ```
 cd src 
