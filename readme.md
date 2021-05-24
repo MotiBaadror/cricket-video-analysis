@@ -18,6 +18,8 @@ Keep the weights in the checkpoints folder
 Keep the video in data/ folder    
 ## Results from tensorflow model 
 
+![alt video](cricket_cent_Trim.mp4)    
+
 Use ```inference_tf2_colab.ipynb``` to get the results from models of tensorflow model. 
 You can try several different configs available [here](https://github.com/tensorflow/models/tree/master/research/object_detection/configs/tf2)
 
